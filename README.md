@@ -2,8 +2,7 @@
  
 <h2>📘Projects</h2>
 [autonomous-drone-flight-project](https://github.com/eunjuyummy/autonomous-drone-flight-project)
-[링크는 젤다의전설 주인공 이름](http://zeldahagoshipda.com)
-[Open cv 활용](https://github.com/bo-zzung/computervs/tree/main/opencv)
+
 <h2>📘</h2>
 
 <h2>📘Projects</h2>
