@@ -6,11 +6,11 @@
 
 #### 1. A Study of Autonomous Drone based on Reinforcement Learning for Time-Limited Task Environments [🔗](https://github.com/eunjuyummy/autonomous-drone-flight-project) [📄](https://github.com/eunjuyummy/autonomous-drone-flight-project)
 
-#### 2. collaborative robot autonomous behavior reinforcement learning technology to solve smart factory problems 🏆
+#### 2. collaborative robot autonomous behavior reinforcement learning technology to solve smart factory problems 
 
-#### 3. Arts Pulse: Data Gallery for The Arts Index [🔗](https://github.com/eunjuyummy/Arts_Pulse) 🏆
+#### 3. Arts Pulse: Data Gallery for The Arts Index [🔗](https://github.com/eunjuyummy/Arts_Pulse) 
 
-#### 4. DAU-VNU AWS Deep Racer 🏆
+#### 4. DAU-VNU AWS Deep Racer 
 
 <h3>🏃 on-going</h3>
 
