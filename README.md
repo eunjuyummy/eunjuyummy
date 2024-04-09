@@ -1,12 +1,7 @@
 ### Hi there 👋
  
 <h2>📘Projects</h2>
-  <p align="left">
-    <a href="https://github.com/eunjuyummy/autonomous-drone-flight-project"><img width="278" src="https://eunjuyummy-autonomous-drone-flight-project.vercel.app/api/pin/?username=eunjuyummy&repo=autonomous-drone-flight-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="autonomous-drone-flight-project"></a>
-  </p>
- alt="autonomous-drone-flight-project"
-
-<a href="https://github.com/eunjuyummy?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+[autonomous-drone-flight-project]([https://openai.com/](https://github.com/eunjuyummy/autonomous-drone-flight-project))
 
 <h2>📘</h2>
 
