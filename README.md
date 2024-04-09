@@ -9,7 +9,6 @@
 [autonomous-drone-flight-project](https://github.com/eunjuyummy/autonomous-drone-flight-project)
 
 2. Arts Pulse: Data Gallery for The Arts Index
-   
 [Arts Pulse](https://github.com/eunjuyummy/Arts_Pulse)
 
 <h3>🏃on-going</h3>
