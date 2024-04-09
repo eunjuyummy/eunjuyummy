@@ -8,6 +8,8 @@
 
 #### 2. Arts Pulse: Data Gallery for The Arts Index [🔗](https://github.com/eunjuyummy/Arts_Pulse)
 
+#### 3. DAU-VNU AWS Deep Racer
+
 <h3>🏃 on-going</h3>
 
 #### AI_Project_CoRLHF [🔗](https://github.com/eunjuyummy/AI_Project_CoRLHF)
