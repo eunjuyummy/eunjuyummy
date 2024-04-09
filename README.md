@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-<summary><h2>📘Projects</h2></summary>
+<h2>📘Projects</h2>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
