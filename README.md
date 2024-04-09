@@ -10,9 +10,9 @@
 
 <h3>🏃 on-going</h3>
 
-#### 1. AI_Project_CoRLHF [🔗](https://github.com/eunjuyummy/AI_Project_CoRLHF)
+#### AI_Project_CoRLHF [🔗](https://github.com/eunjuyummy/AI_Project_CoRLHF)
 
-#### 2. Imitation Learning
+#### Imitation Learning
 
 
 <!--
