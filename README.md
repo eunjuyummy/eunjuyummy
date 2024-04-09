@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+there!;This+is+eunjuyummy+🐨)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+there!;This+is+eunjuyummy+🐨)](https://git.io/typing-svg)
 
 I'm studying in [RAILab](https://railab.notion.site/RAILab-b0b2706d2d2b45f2b0b8aab681bf1e4f)
 
