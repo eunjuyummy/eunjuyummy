@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2>🔭Projects</h2>
+<h2>🏄‍♀️Projects</h2>
 <h3>on-going</h3>
 
 [autonomous-drone-flight-project](https://github.com/eunjuyummy/autonomous-drone-flight-project)
