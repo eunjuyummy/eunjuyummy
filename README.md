@@ -3,7 +3,6 @@
 
 
 <h2>🏄‍♀️ Projects</h2>
-<h3>end</h3>
 
 #### 1. A Study of Autonomous Drone based on Reinforcement Learning for Time-Limited Task Environments [🔗](https://github.com/eunjuyummy/autonomous-drone-flight-project)
 
