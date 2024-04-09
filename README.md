@@ -21,7 +21,7 @@ I'm studying in [RAILab](https://railab.notion.site/RAILab-b0b2706d2d2b45f2b0b8a
 
 
 
-</h2>Contact</h2>
+<h2>Contact</h2>
 
 <div>
   <a href="mailto:kkkoj4284@donga.ac.kr">
