@@ -6,9 +6,11 @@
 
 #### 1. A Study of Autonomous Drone based on Reinforcement Learning for Time-Limited Task Environments [🔗](https://github.com/eunjuyummy/autonomous-drone-flight-project)
 
-#### 2. Arts Pulse: Data Gallery for The Arts Index [🔗](https://github.com/eunjuyummy/Arts_Pulse)
+#### 2. RL_SF
 
-#### 3. DAU-VNU AWS Deep Racer
+#### 3. Arts Pulse: Data Gallery for The Arts Index [🔗](https://github.com/eunjuyummy/Arts_Pulse)
+
+#### 4. DAU-VNU AWS Deep Racer
 
 <h3>🏃 on-going</h3>
 
