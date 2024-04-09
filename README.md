@@ -23,7 +23,7 @@ I'm studying in [RAILab](https://railab.notion.site/RAILab-b0b2706d2d2b45f2b0b8a
 
 <h3 align="center">Contact</h3>
 <div align="center">
-  <a href="kkkoj4284@donga.ac.kr">
+  <a href="mailto:kkkoj4284@donga.ac.kr">
     <img
       src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
