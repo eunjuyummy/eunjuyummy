@@ -15,7 +15,6 @@
 
 #### 2. Imitation Learning
 
-<h2>🏆Awards</h2>
 
 <!--
 **eunjuyummy/eunjuyummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
