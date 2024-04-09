@@ -7,6 +7,10 @@
 
 <a href="https://github.com/eunjuyummy?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
+<h2>📘</h2>
+
+<h2>📘Projects</h2>
+
 <!--
 **eunjuyummy/eunjuyummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
