@@ -13,7 +13,10 @@
 
 <h3>🏃on-going</h3>
 
+1. AI_Project_CoRLHF
 [🔗](https://github.com/eunjuyummy/AI_Project_CoRLHF)
+
+2. Imitation Learning
 
 <!--
 **eunjuyummy/eunjuyummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
