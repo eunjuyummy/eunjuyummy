@@ -20,6 +20,8 @@ I'm studying in [RAILab](https://railab.notion.site/RAILab-b0b2706d2d2b45f2b0b8a
 
 #### Imitation Learning
 
+#### IsaacGym RL Project [🔗](https://github.com/eunjuyummy/IsaacGym_RL_Project)
+
 #### Development of Robotic Transformer-based Cooperative Robot Reinforcement Learning Simulator
 
 
