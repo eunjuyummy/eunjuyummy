@@ -35,11 +35,12 @@ I'm studying in [RAILab](https://railab.notion.site/RAILab-b0b2706d2d2b45f2b0b8a
   </a>
 </div>
 
-<a href="mailto:kkkoj4284@donga.ac.kr">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" role="img" aria-label="Gmail">
-  </svg>
-</a>
-
+</div>
+  <a href="mailto:kkkoj4284@donga.ac.kr">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" role="img" aria-label="Gmail">
+    </svg>
+  </a>
+<div>
 
 <!--
 **eunjuyummy/eunjuyummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
