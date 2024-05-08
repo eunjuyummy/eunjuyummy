@@ -33,7 +33,6 @@ I'm studying in [RAILab](https://railab.notion.site/RAILab-b0b2706d2d2b45f2b0b8a
       src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-
 <!--
 **eunjuyummy/eunjuyummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
