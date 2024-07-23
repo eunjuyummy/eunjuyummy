@@ -12,13 +12,8 @@ I'm studying in [RAILab](https://railab.notion.site/RAILab-b0b2706d2d2b45f2b0b8a
 
 #### 3. AI_Project_CoRLHF [github](https://github.com/eunjuyummy/AI_Project_CoRLHF)
 
-<h2>Contact</h2>
-<div>
-  <a href="mailto:kkkoj4284@donga.ac.kr">
-    <img
-      src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
+[google scholar](https://scholar.google.co.kr/citations?hl=ko&user=pYGlsLIAAAAJ&view_op=list_works&gmla=AETOMgHuHCmH_2pbmfCG26zxZXvELH0biQySPIhZ58leuVB_PhQxxhb4bqdd0aUdGI0frn1aiDoDJsftD0q_X0NSzvyzZZv9oYeCtd_3wuoq4YejAPo3WHq-aA)
+
 <!--
 **eunjuyummy/eunjuyummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
