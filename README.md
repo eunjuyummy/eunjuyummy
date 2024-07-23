@@ -8,21 +8,10 @@ I'm studying in [RAILab](https://railab.notion.site/RAILab-b0b2706d2d2b45f2b0b8a
 <!--
 [📄](https://github.com/eunjuyummy/autonomous-drone-flight-project)
 -->
-#### 2. Development of collaborative robot autonomous behavior reinforcement learning technology to solve smart factory problems
 
-#### 3. Arts Pulse: Data Gallery for The Arts Index [🔗](https://github.com/eunjuyummy/Arts_Pulse) 
+#### 2. Arts Pulse: Data Gallery for The Arts Index [🔗](https://github.com/eunjuyummy/Arts_Pulse) 
 
-#### 4. DAU-VNU AWS Deep Racer 
-
-<h3>🏃 on-going</h3>
-
-#### AI_Project_CoRLHF [🔗](https://github.com/eunjuyummy/AI_Project_CoRLHF)
-
-#### Imitation Learning
-
-#### Development of Robotic Transformer-based Cooperative Robot Reinforcement Learning Simulator
-
-
+#### 3. AI_Project_CoRLHF [🔗](https://github.com/eunjuyummy/AI_Project_CoRLHF)
 
 <h2>Contact</h2>
 <div>
