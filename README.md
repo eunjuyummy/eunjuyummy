@@ -3,7 +3,7 @@
 I'm studying in [RAILab](https://railab.notion.site/RAILab-b0b2706d2d2b45f2b0b8aab681bf1e4f)
 -->
 
-<h1>Projects</h1>
+<h1>Project Codes</h1>
 
 #### 1. A Study of Autonomous Drone based on Reinforcement Learning for Time-Limited Task Environments [github](https://github.com/eunjuyummy/autonomous-drone-flight-project) 
 
