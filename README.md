@@ -4,16 +4,13 @@ I'm studying in [RAILab](https://railab.notion.site/RAILab-b0b2706d2d2b45f2b0b8a
 -->
 [🎓](https://scholar.google.co.kr/citations?hl=ko&user=pYGlsLIAAAAJ&view_op=list_works&gmla=AETOMgHuHCmH_2pbmfCG26zxZXvELH0biQySPIhZ58leuVB_PhQxxhb4bqdd0aUdGI0frn1aiDoDJsftD0q_X0NSzvyzZZv9oYeCtd_3wuoq4YejAPo3WHq-aA)
   
-<h2>🏄‍♀️ Projects</h2>
+<h1>Projects</h1>
 
-#### 1. A Study of Autonomous Drone based on Reinforcement Learning for Time-Limited Task Environments [🔗](https://github.com/eunjuyummy/autonomous-drone-flight-project) 
-<!--
-[📄](https://github.com/eunjuyummy/autonomous-drone-flight-project)
--->
+#### 1. A Study of Autonomous Drone based on Reinforcement Learning for Time-Limited Task Environments [github](https://github.com/eunjuyummy/autonomous-drone-flight-project) 
 
-#### 2. Arts Pulse: Data Gallery for The Arts Index [🔗](https://github.com/eunjuyummy/Arts_Pulse) 
+#### 2. Arts Pulse: Data Gallery for The Arts Index [github](https://github.com/eunjuyummy/Arts_Pulse) 
 
-#### 3. AI_Project_CoRLHF [🔗](https://github.com/eunjuyummy/AI_Project_CoRLHF)
+#### 3. AI_Project_CoRLHF [github](https://github.com/eunjuyummy/AI_Project_CoRLHF)
 
 <h2>Contact</h2>
 <div>
