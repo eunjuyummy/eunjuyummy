@@ -2,7 +2,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+there!;This+is+eunjuyummy🐨)](https://git.io/typing-svg)
 I'm studying in [RAILab](https://railab.notion.site/RAILab-b0b2706d2d2b45f2b0b8aab681bf1e4f)
 -->
-([Google Scholar](https://scholar.google.co.kr/citations?hl=ko&user=pYGlsLIAAAAJ&view_op=list_works&gmla=AETOMgHuHCmH_2pbmfCG26zxZXvELH0biQySPIhZ58leuVB_PhQxxhb4bqdd0aUdGI0frn1aiDoDJsftD0q_X0NSzvyzZZv9oYeCtd_3wuoq4YejAPo3WHq-aA))
+[Google Scholar](https://scholar.google.co.kr/citations?hl=ko&user=pYGlsLIAAAAJ&view_op=list_works&gmla=AETOMgHuHCmH_2pbmfCG26zxZXvELH0biQySPIhZ58leuVB_PhQxxhb4bqdd0aUdGI0frn1aiDoDJsftD0q_X0NSzvyzZZv9oYeCtd_3wuoq4YejAPo3WHq-aA)
   
 <h2>🏄‍♀️ Projects</h2>
 
