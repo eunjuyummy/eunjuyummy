@@ -5,7 +5,7 @@ I'm studying in [RAILab](https://railab.notion.site/RAILab-b0b2706d2d2b45f2b0b8a
 
 <h1>Projects</h1>
 
-#### 1. A Study of Autonomous Drone based on Reinforcement Learning for Time-Limited Task Environments (Domestic Conference) [github](https://github.com/eunjuyummy/autonomous-drone-flight-project) 
+#### 1. A Study of Autonomous Drone based on Reinforcement Learning for Time-Limited Task Environments [github](https://github.com/eunjuyummy/autonomous-drone-flight-project) 
 
 #### 2. Arts Pulse: Data Gallery for The Arts Index [github](https://github.com/eunjuyummy/Arts_Pulse) 
 
