@@ -3,8 +3,6 @@
 I'm studying in [RAILab](https://railab.notion.site/RAILab-b0b2706d2d2b45f2b0b8aab681bf1e4f)
 -->
 
-[google scholar](https://scholar.google.co.kr/citations?hl=ko&user=pYGlsLIAAAAJ&view_op=list_works&gmla=AETOMgHuHCmH_2pbmfCG26zxZXvELH0biQySPIhZ58leuVB_PhQxxhb4bqdd0aUdGI0frn1aiDoDJsftD0q_X0NSzvyzZZv9oYeCtd_3wuoq4YejAPo3WHq-aA)
-
 <!--
 **eunjuyummy/eunjuyummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
